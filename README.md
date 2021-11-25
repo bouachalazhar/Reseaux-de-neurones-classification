@@ -1,2 +1,2 @@
 # Reseaux-de-neurones-classification
-Problème de classification supervisée avec 2 classes puis 3 classes, où le réseau de neurones prédit la classe de n’importe quel point du plan.
+Problème de classification supervisée avec 2 classes puis 3 classes, où le réseau de neurones prédit la classe de n’importe quel point du plan. Le plan a été divisé en deux demi-plan par une droite délimitant deux classes, le réseau de neurones dont la couche cachée contient des neurones linéaires, a retrouvé cette séparation malgré les quelques exemples mal classés.
